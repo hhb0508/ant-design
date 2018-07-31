@@ -22,7 +22,7 @@ const openNotification = () => {
     description: 'This is the content of the notification. This is the content of the notification. This is the content of the notification.',
     style: {
       width: 600,
-      marginLeft: 335 - 600,
+      marginLeft: 50%,
     },
   });
 };
